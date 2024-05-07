@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "BLOG@CHROMIUM00",
+  description: "PERSONAL BLOG OF CHROMIUM00",
 
   theme,
 
